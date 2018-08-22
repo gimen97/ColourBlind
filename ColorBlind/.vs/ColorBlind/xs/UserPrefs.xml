@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{809FA41D-EAFA-45F3-CAFF-AFFDA2A1FC5F}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Game.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Game.cs" Line="57" Column="1" />
+      <File FileName="Assets/Scripts/Timer.cs" Line="61" Column="34" />
+      <File FileName="Assets/Scripts/GameOver.cs" Line="48" Column="38" />
+      <File FileName="../Falling Blocks Game/Assets/Scripts/GameOverScript.cs" Line="55" Column="2" NotebookId="1" />
+      <File FileName="../Falling Blocks Game/Assets/Scripts/PlayerController.cs" Line="48" Column="3" NotebookId="1" />
+      <File FileName="../Falling Blocks Game/Assets/Scripts/Spawner.cs" Line="39" Column="58" NotebookId="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
